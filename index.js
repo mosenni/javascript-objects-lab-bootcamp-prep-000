@@ -7,3 +7,8 @@ recipes.prop2 = '2';
 
 return recipes
 }
+
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
+
+  
+}
